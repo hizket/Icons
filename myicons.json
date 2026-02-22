@@ -1,14 +1,17 @@
 {
-  "Proxy": "https://raw.githubusercontent.com/hizket/Icons/main/s.png",
-  "Mojie": "https://raw.githubusercontent.com/hizket/Icons/main/FastCloud.png",
-  "BiliBili": "https://raw.githubusercontent.com/hizket/Icons/main/bilibili.png",
-  "Apple": "https://raw.githubusercontent.com/hizket/Icons/main/Apple.png",
-  "Telegram": "https://raw.githubusercontent.com/hizket/Icons/main/Telegram.png",
-  "Gemini": "https://raw.githubusercontent.com/hizket/Icons/main/gemini.png",
-  "YouTube": "https://raw.githubusercontent.com/hizket/Icons/main/YouTube.png",
-  "OpenAI": "https://raw.githubusercontent.com/hizket/Icons/main/ChatGPT.png",
-  "Google": "https://raw.githubusercontent.com/hizket/Icons/main/Google.png",
-  "TikTok": "https://raw.githubusercontent.com/hizket/Icons/main/TikTok.png",
-  "RedotPay": "https://raw.githubusercontent.com/hizket/Icons/main/Redotpay.png",
-  "PayPal": "https://raw.githubusercontent.com/hizket/Icons/main/PayPal.png"
+  "name": "MyIcons",
+  "icons": [
+    { "name": "Proxy", "url": "https://raw.githubusercontent.com/hizket/Icons/main/s.png" },
+    { "name": "Mojie", "url": "https://raw.githubusercontent.com/hizket/Icons/main/FastCloud.png" },
+    { "name": "BiliBili", "url": "https://raw.githubusercontent.com/hizket/Icons/main/bilibili.png" },
+    { "name": "Apple", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Apple.png" },
+    { "name": "Telegram", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Telegram.png" },
+    { "name": "Gemini", "url": "https://raw.githubusercontent.com/hizket/Icons/main/gemini.png" },
+    { "name": "YouTube", "url": "https://raw.githubusercontent.com/hizket/Icons/main/YouTube.png" },
+    { "name": "OpenAI", "url": "https://raw.githubusercontent.com/hizket/Icons/main/ChatGPT.png" },
+    { "name": "Google", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Google.png" },
+    { "name": "TikTok", "url": "https://raw.githubusercontent.com/hizket/Icons/main/TikTok.png" },
+    { "name": "RedotPay", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Redotpay.png" },
+    { "name": "PayPal", "url": "https://raw.githubusercontent.com/hizket/Icons/main/PayPal.png" }
+  ]
 }
