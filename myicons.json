@@ -14,8 +14,8 @@
     { "name": "RedotPay", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Redotpay.png" },
     { "name": "PayPal", "url": "https://raw.githubusercontent.com/hizket/Icons/main/PayPal.png" },
     { "name": "mojie", "url": "https://raw.githubusercontent.com/hizket/Icons/main/mojie.png" },
-    { "name": "tiktok1", "url": "https://raw.githubusercontent.com/hizket/Icons/main/mojie.png" },
-    { "name": "tiktok2", "url": "https://raw.githubusercontent.com/hizket/Icons/main/mojie.png" },
-    { "name": "tiktok3", "url": "https://raw.githubusercontent.com/hizket/Icons/main/mojie.png" }   
+    { "name": "tiktok1", "url": "https://raw.githubusercontent.com/hizket/Icons/main/tiktok1.png" },
+    { "name": "tiktok2", "url": "https://raw.githubusercontent.com/hizket/Icons/main/tiktok2.png" },
+    { "name": "tiktok3", "url": "https://raw.githubusercontent.com/hizket/Icons/main/tiktok3.png" }   
   ]
 }
