@@ -14,10 +14,16 @@
     { "name": "RedotPay", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Redotpay.png" },
     { "name": "PayPal", "url": "https://raw.githubusercontent.com/hizket/Icons/main/PayPal.png" },
     { "name": "mojie", "url": "https://raw.githubusercontent.com/hizket/Icons/main/mojie.png" },
-    { "name": "tiktok1", "url": "https://raw.githubusercontent.com/hizket/Icons/main/tiktok1.png" },
-    { "name": "tiktok2", "url": "https://raw.githubusercontent.com/hizket/Icons/main/tiktok2.png" },
     { "name": "Microsoft", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Microsoft.png" },
     { "name": "WeChat", "url": "https://raw.githubusercontent.com/hizket/Icons/main/WeChat.png" },
-    { "name": "Ty", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Ty.png" }  
+    { "name": "Ty", "url": "https://raw.githubusercontent.com/hizket/Icons/main/Ty.png" } ,
+    { "name": "gemini1", "url": "https://raw.githubusercontent.com/hizket/Icons/main/gemini1.png" } ,
+    { "name": "ssid", "url": "https://raw.githubusercontent.com/hizket/Icons/main/ssid.png" } ,
+    { "name": "jian", "url": "https://raw.githubusercontent.com/hizket/Icons/main/jian.png" } ,
+    { "name": "quan", "url": "https://raw.githubusercontent.com/hizket/Icons/main/quan.png" } ,
+    { "name": "surge1", "url": "https://raw.githubusercontent.com/hizket/Icons/main/surge1.png" } ,
+    { "name": "surge2", "url": "https://raw.githubusercontent.com/hizket/Icons/main/surge2.png" } ,
+    { "name": "surge3", "url": "https://raw.githubusercontent.com/hizket/Icons/main/surge3.png" } ,
+    { "name": "zijian", "url": "https://raw.githubusercontent.com/hizket/Icons/main/zijian.png" } ,
+    { "name": "telegram1", "url": "https://raw.githubusercontent.com/hizket/Icons/main/telegram1.png" }
   ]
-}
